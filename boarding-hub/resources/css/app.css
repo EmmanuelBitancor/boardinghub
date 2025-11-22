@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "responsive";
+
+/* 1. Import Bootstrap/Framework first */
+
+/* 2. Your project's core non-responsive styles */
+body {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* 3. 👇 Import your new responsive file LAST for overriding */

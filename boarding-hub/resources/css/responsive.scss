@@ -1,0 +1,6 @@
+/* Global responsiveness using SCSS for Laravel */
+
+// Define SCSS variables for common breakpoints (Best practice with SCSS)
+// Note: If you are importing Bootstrap's source files, you can simply use 
+// Bootstrap's pre-defined variables like $sm, $md, etc.
+$mobile-max: 767.98px;
